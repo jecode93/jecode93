@@ -1,3 +1,4 @@
+
 ## Hi 👋, my name is **Jean Emmanuel Cadet**
 ### I am a Web & Flutter Developer
 
@@ -11,6 +12,10 @@ I love coding things like web and mobile applications, which forced me to learn 
 * 💻 HTML, CSS, JS
 * 🌎 PhP, MySQL
 
+## Examples of Work
+<img src="https://i0.wp.com/jeanemmanuelcadet.com/wp-content/uploads/2021/08/jec.png?resize=1024%2C683&ssl=1" width="200" >
+<img src="https://i1.wp.com/jeanemmanuelcadet.com/wp-content/uploads/2021/08/cdeph.png?resize=1024%2C683&ssl=1" width="200" >
+<img src="https://i0.wp.com/jeanemmanuelcadet.com/wp-content/uploads/2021/08/cdi.png?resize=1024%2C683&ssl=1" width="200" >
 
 
 
