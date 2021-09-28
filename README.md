@@ -5,8 +5,12 @@
 I give services like creating modern mobile apps and websites for all kinds of business.<br/>
 I love coding things like web and mobile applications, which forced me to learn something new every day to improve my skills.
 
-Skills: 
-Flutter / Dart / PhP / MySQL / WordPress 
+## Skills and Experience
+
+* 📱 Flutter / Dart
+* 💻 HTML, CSS, JS
+*    PhP/MySQL
+
 
 
 
