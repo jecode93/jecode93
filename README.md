@@ -13,7 +13,7 @@ I love coding things like web and mobile applications, which forced me to learn 
 * 🌎 PhP, MySQL
 
 ## Some Examples of Work
-<img src="https://i0.wp.com/jeanemmanuelcadet.com/wp-content/uploads/2021/08/jec.png?resize=1024%2C683&ssl=1" width="200" > <img src="https://i1.wp.com/jeanemmanuelcadet.com/wp-content/uploads/2021/08/cdeph.png?resize=1024%2C683&ssl=1" width="200" > <img src="https://i0.wp.com/jeanemmanuelcadet.com/wp-content/uploads/2021/08/cdi.png?resize=1024%2C683&ssl=1" width="200" >
+<img src="https://github.com/jecode93/jecode93/blob/f1bd375a3dd879afa07c06fe98cf0cc0064ae5a5/jec.png" width="200" > <img src="https://github.com/jecode93/jecode93/blob/f1bd375a3dd879afa07c06fe98cf0cc0064ae5a5/cdi.png" width="200" > <img src="https://github.com/jecode93/jecode93/blob/f1bd375a3dd879afa07c06fe98cf0cc0064ae5a5/cdeph.png" width="200" >
 
 
 
