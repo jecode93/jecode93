@@ -7,9 +7,9 @@ I love coding things like web and mobile applications, which forced me to learn 
 
 ## Skills and Experience
 
-* 📱 Flutter / Dart
+* 📱 Flutter, Dart
 * 💻 HTML, CSS, JS
-*    PhP/MySQL
+* 🌎 PhP, MySQL
 
 
 
