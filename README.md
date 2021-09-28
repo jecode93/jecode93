@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Jean Emmanuel Cadet**
 #### *I am a Web & Flutter Developer*
-![*I am a Web & Flutter Developer*](https://i0.wp.com/jeanemmanuelcadet.com/wp-content/uploads/2021/08/6202-p7n1fo9pcc9h5xzjyuz9i9h2tjbp1xq389ixyi0yeu.png?w=515&ssl=1)
+
 
 I give services like creating modern mobile apps and websites for all kinds of business.<br/>
 I love coding things like web and mobile applications, which forced me to learn something new every day to improve my skills.
