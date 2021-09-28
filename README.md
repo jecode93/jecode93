@@ -1,5 +1,5 @@
 
-# Hi 👋, my name is **Jean Emmanuel CADET**
+# Hi 👋, I'm **Jean Emmanuel CADET**
 ## A Web & Flutter Developer
 
 
