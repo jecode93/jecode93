@@ -13,6 +13,11 @@ I love coding things like web and mobile applications, which forced me to learn 
 * 🌎 PhP, MySQL
 
 ## Some Examples of Work
+
+### Mobile App
+<img src="https://github.com/jecode93/jecode93/blob/dc68316b46ecf82e53419744bc08895cbe4828ad/hotelsReservation.png" width="200" height="140"> <img src="https://github.com/jecode93/jecode93/blob/dc68316b46ecf82e53419744bc08895cbe4828ad/foodDelivery.png" width="200" height="140"> <img src="https://github.com/jecode93/jecode93/blob/dc68316b46ecf82e53419744bc08895cbe4828ad/socialShare.png" width="200" height="140" > <img src="https://github.com/jecode93/jecode93/blob/dc68316b46ecf82e53419744bc08895cbe4828ad/budgetAppUI.png" width="200" height="140" >
+
+### Website
 <img src="https://github.com/jecode93/jecode93/blob/f1bd375a3dd879afa07c06fe98cf0cc0064ae5a5/jec.png" width="200" > <img src="https://github.com/jecode93/jecode93/blob/f1bd375a3dd879afa07c06fe98cf0cc0064ae5a5/cdi.png" width="200" > <img src="https://github.com/jecode93/jecode93/blob/f1bd375a3dd879afa07c06fe98cf0cc0064ae5a5/cdeph.png" width="200" >
 
 
