@@ -2,6 +2,22 @@
 # Hi 👋, I'm **Jean Emmanuel CADET**
 ## A Web & Flutter Developer
 
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=jecode93&color=blueviolet&label=Profile+Views)
+<a href="https://twitter.com/@jecode93">
+<img alt="@jecode93 | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>  <a href="https://www.linkedin.com/in/jean-emmanuel-cadet-169a51137/">
+<img alt="Jean Emmanuel Cadet | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/@jecode93">
+<img  alt="@justEhmad Saeed | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/@jecode93">
+<img alt="@jecode93 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
+
 
 I give services like creating modern mobile apps and websites for all kinds of business.<br/>
 I love coding things like web and mobile applications, which forced me to learn something new every day to improve my skills.
