@@ -2,8 +2,6 @@
 # Hi 👋, I'm **Jean Emmanuel CADET**
 ## A Web & Flutter Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jecode93&label=Profile%20views&color=0e75b6&style=flat" alt="jecode93" /> </p>
-
 
 <p align="center">
 
