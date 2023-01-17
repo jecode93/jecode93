@@ -41,4 +41,4 @@ I love coding things like web and mobile applications, which forced me to learn 
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jecode93)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jecode93&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jecode93)](https://github.com/jecode93/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jecode93&show_icons=true)  
