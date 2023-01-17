@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm **Jean Emmanuel CADET**
-## A Web & Flutter Developer
+## A Software Engineer
 
 <p align="center">
 
@@ -23,11 +23,10 @@ I give services like creating modern mobile apps and websites for all kinds of b
 
 I love coding things like web and mobile applications, which forced me to learn something new every day to improve my skills.
 
-## Skills and Experience
+## Skills
 
-* 📱 Flutter, Dart
-* 💻 HTML, CSS, JS
-* 🌎 PhP, MySQL
+* 💻 HTML, CSS, JavaScript, Dart, Node.js, React.JS, PHP, jQuery, Bootstrap, Flutter
+* 🌎 MySQL, MongoDB, Firebase, Git, Postman, RESTful API, AWS
 
 ## Some Examples of Work
 
