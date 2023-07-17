@@ -1,19 +1,19 @@
 
 # Hi 👋, I'm **Jean Emmanuel CADET**
-## A Software Engineer
+## Full-Stack Software Engineer
 
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=jecode93&color=blueviolet&label=Profile+Views)
 <a href="https://twitter.com/@jecode93">
 <img alt="@jecode93 | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>  <a href="https://www.linkedin.com/in/jean-emmanuel-cadet-169a51137/">
+</a>  <a href="https://www.linkedin.com/in/jean-emmanuel-cadet/">
 <img alt="Jean Emmanuel Cadet | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/@jecode93">
+<a href="https://www.facebook.com/jeanemmanuelcadet07/">
 <img  alt="@jecode93 | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/@jecode93">
+<a href="https://www.instagram.com/jecode93">
 <img alt="@jecode93 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
@@ -25,8 +25,9 @@ I love coding things like web and mobile applications, which forced me to learn 
 
 ## Skills
 
-* 💻 HTML, CSS, JavaScript, Dart, Node.js, React.JS, PHP, jQuery, Bootstrap, Flutter
-* 🌎 MySQL, MongoDB, Firebase, Git, Postman, RESTful API, AWS
+* Languages: `HTML/CSS`, `JavaScript`, `Ruby`, `MySQL`, `PostgreSQL`, `MongoDB`
+* Libraries & Frameworks: `Node js`, `Express`, `React / Redux`, `Rails`, `Bootstrap`, `Taiwind CSS`, `SASS`, `Mongoose`
+* Technologies & Other: `Git`, `Postman`, `REST APIs`
 
 ## Some Examples of Work
 
