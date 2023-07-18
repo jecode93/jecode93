@@ -21,11 +21,11 @@
 
 ## About me
 
+I'm a Full-Stack Software Engineer who is passionate about creating software solutions for small and larger businesses, I use technology to elevate people and build community.
+
 > I'm currently completing coursework at Microverse, a remote software development program that allows devs from all over the world to use pair programming and project building to teach development.
 
 > I love coding things like web and mobile applications, which forced me to learn something new every day to improve my skills.
-
-> I build software solutions for small and larger businesses.
 
 > I've spent the last several months working remotely and asynchronously with people across different time zones.
 
