@@ -20,7 +20,16 @@
 
 
 ## About me
+
+> I'm currently completing coursework at Microverse, a remote software development program that allows devs from all over the world to use pair programming and project building to teach development.
+
 > I love coding things like web and mobile applications, which forced me to learn something new every day to improve my skills.
+
+> I build software solutions for small and larger businesses.
+
+> I've spent the last several months working remotely and asynchronously with people across different time zones.
+
+
 
 ## Skills
 
@@ -28,9 +37,27 @@
 * Libraries & Frameworks: `Node js`, `Express`, `React / Redux`, `Rails`, `Bootstrap`, `Taiwind CSS`, `SASS`, `Mongoose`
 * Technologies & Other: `Git`, `Postman`, `REST APIs`
 
-## Some Examples of Work
+## Some examples of my works
 
 ### Website
+<a href="https://idasboiserie.com">
+  <img src="idasMockup.png" width="300"/>
+</a>
+<a href="https://clindoeilinfo.com">
+  <img src="clindoeilMockup.png" width="300"/>
+</a>
+<a href="https://jeanemmanuelcadet.com">
+  <img src="jecodeMockup.png" width="300"/>
+</a>
+<a href="#">
+  <img src="vepMockup.png" width="300"/>
+</a>
+<a href="#">
+  <img src="cdephMockup.png" width="300"/>
+</a>
+<a href="#">
+  <img src="graphydevMockup.png" width="300"/>
+</a>
 
 
 
