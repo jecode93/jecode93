@@ -41,22 +41,22 @@
 
 ### Website
 <a href="https://idasboiserie.com">
-  <img src="idasMockup.png" width="300"/>
+  <img src="idasMockup.png" width="200"/>
 </a>
 <a href="https://clindoeilinfo.com">
-  <img src="clindoeilMockup.png" width="300"/>
+  <img src="clindoeilMockup.png" width="200"/>
 </a>
 <a href="https://jeanemmanuelcadet.com">
-  <img src="jecodeMockup.png" width="300"/>
+  <img src="jecodeMockup.png" width="200"/>
 </a>
 <a href="#">
-  <img src="vepMockup.png" width="300"/>
+  <img src="vepMockup.png" width="200"/>
 </a>
 <a href="#">
-  <img src="cdephMockup.png" width="300"/>
+  <img src="cdephMockup.png" width="200"/>
 </a>
 <a href="#">
-  <img src="graphydevMockup.png" width="300"/>
+  <img src="graphydevMockup.png" width="200"/>
 </a>
 
 
