@@ -23,6 +23,8 @@
 
 I'm a Full-Stack Software Engineer who is passionate about creating software solutions for small and larger businesses, I use technology to elevate people and build community.
 
+And as a Full-Stack Software Engineer, I want to work for a company that is always looking for new ways to improve its products and services, and that is using the latest technologies. This will give me the opportunity to use my skills to help the company grow and to make a real impact.
+
 > I'm currently completing coursework at Microverse, a remote software development program that allows devs from all over the world to use pair programming and project building to teach development.
 
 > I love coding things like web and mobile applications, which forced me to learn something new every day to improve my skills.
