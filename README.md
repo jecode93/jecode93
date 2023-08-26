@@ -35,7 +35,8 @@ And as a Full-Stack Software Engineer, I want to work for a company that is alwa
 
 ## Skills
 
-* Languages: `HTML/CSS`, `JavaScript`, `Ruby`, `MySQL`, `PostgreSQL`, `MongoDB`
+* Languages: `HTML/CSS`, `JavaScript`, `Ruby`
+* Databases: `MySQL`, `PostgreSQL`, `MongoDB`
 * Libraries & Frameworks: `Node js`, `Express`, `React / Redux`, `Rails`, `Bootstrap`, `Taiwind CSS`, `SASS`, `Mongoose`, `Jest`
 * Technologies & Other: `Git`, `Postman`, `REST APIs`
 
