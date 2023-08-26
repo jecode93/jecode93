@@ -66,4 +66,6 @@ And as a Full-Stack Software Engineer, I want to work for a company that is alwa
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jecode93)](https://github.com/jecode93/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jecode93&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jecode93&langs_count=8&layout=compact)](https://github.com/jecode93/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jecode93&show_icons=true&locale=en" alt="Jean Emmanuel Cadet" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jecode93&" alt="Jean Emmanuel Cadet" /></p>
