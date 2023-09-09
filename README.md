@@ -31,6 +31,8 @@ And as a Full-Stack Software Engineer, I want to work for a company that is alwa
 
 > I've spent the last several months working remotely and asynchronously with people across different time zones.
 
+> I'm now looking for opportunities to apply my skills in a real-world setting. If you know of any open positions or have a project in mind, please let me know!
+
 
 
 ## Skills
