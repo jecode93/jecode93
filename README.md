@@ -38,7 +38,7 @@ And as a Full-Stack Software Engineer, I am looking to work for a company that i
 ## Skills
 
 * Languages: `HTML/CSS`, `JavaScript`, `TypeScript`, `Ruby`
-* Libraries & Frameworks: `Node.js`, `Express js`, `React`, `Redux`, `Ruby on Rails`, `Bootstrap`, `Tailwind CSS`, `SASS`, `Mongoose`, `Jest`, `Next.js`, `React Testing Library`
+* Libraries & Frameworks: `Node.js`, `Express.js`, `React`, `Redux`, `Ruby on Rails`, `Bootstrap`, `Tailwind CSS`, `SASS`, `Mongoose`, `Jest`, `Next.js`, `React Testing Library`
 * Databases: `MySQL`, `PostgreSQL`, `MongoDB`
 * Technologies & Other: `Git`, `AWS`, `Docker`, `REST API Development`, `GraphQL`, `TDD`, `BDD`
 
