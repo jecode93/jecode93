@@ -42,6 +42,7 @@ And as a Full-Stack Software Engineer, I am looking to work for a company that i
 * Databases: `MySQL`, `PostgreSQL`, `MongoDB`
 * Technologies & Other: `Git`, `AWS`, `Docker`, `Heroku`, `REST API Development`, `GraphQL`, `TDD`, `BDD`
 
+<!--
 ## Some examples of my works
 
 ### Website
@@ -64,7 +65,7 @@ And as a Full-Stack Software Engineer, I am looking to work for a company that i
   <img src="graphydevMockup.png" width="200"/>
 </a>
 
-
+-->
 
 ## Stats
 
