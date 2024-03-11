@@ -7,7 +7,8 @@
 ![](https://komarev.com/ghpvc/?username=jecode93&color=blueviolet&label=Profile+Views)
 <a href="https://twitter.com/@jecode93">
 <img alt="@jecode93 | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>  <a href="https://www.linkedin.com/in/jean-emmanuel-cadet/">
+</a>  
+<a href="https://www.linkedin.com/in/jean-emmanuel-cadet/">
 <img alt="Jean Emmanuel Cadet | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/jeanemmanuelcadet07/">
@@ -19,7 +20,7 @@
 </p>
 
 
-## About me
+## About Me
 
 I'm a Full-Stack Software Engineer who is passionate about creating software solutions for small and larger businesses, I use technology to elevate people and build community.
 
