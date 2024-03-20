@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm **Jean Emmanuel CADET**
 ## Full-Stack Software Engineer
 
@@ -38,7 +37,7 @@ And as a Full-Stack Software Engineer, I am looking to work for a company that i
 
 * Languages: `Ruby`, `JavaScript`, `TypeScript`
 * Libraries & Frameworks: `Ruby on Rails`, `Node.js`, `Express.js`, `React`, `Redux`, `Bootstrap`, `Tailwind CSS`, `SASS`, `SCSS`, `Mongoose`, `Jest`, `Next.js`, `React Testing Library`,
-* Databases: `MySQL`, `PostgreSQL`, `MongoDB`
+* Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 * Technologies & Other: `Git`, `AWS`, `Docker`, `Heroku`, `REST API Development`, `TDD`, `BDD`
 
 <!--
