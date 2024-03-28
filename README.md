@@ -1,5 +1,5 @@
 # Hi 👋, I'm **Jean Emmanuel CADET**
-## Full-Stack Software Engineer
+## A Full-stack Software Engineer
 
 <p align="center">
 
@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a Full-Stack Software Engineer who is passionate about creating software solutions for small and larger businesses, I use technology to elevate people and build community.
+I'm a Full-Stack Software Engineer who is passionate about creating software solutions for businesses, I use technology to elevate people and build community.
 
 And as a Full-Stack Software Engineer, I am looking to work for a company that is always looking for new ways to improve its products and services, using the latest technologies. This will allow me to use my skills to help the company grow and make a real impact.
 
