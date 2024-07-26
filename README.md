@@ -21,16 +21,15 @@
 
 ## About Me
 
-I'm a Full-Stack Software Engineer who is passionate about creating software solutions for businesses, I use technology to elevate people and build community.
+I’m a passionate and versatile full-stack software engineer with extensive experience in building robust and scalable applications. My primary expertise lies in Ruby and Ruby on Rails, complemented by a strong command of PostgreSQL as my go-to database.
 
-And as a Full-Stack Software Engineer, I am looking to work for a company that is always looking for new ways to improve its products and services, using the latest technologies. This will allow me to use my skills to help the company grow and make a real impact.
+Over the years, I’ve expanded my skill set to include a diverse array of technologies, ensuring I can tackle any challenge that comes my way. I’m proficient in front-end development with React.js and Next.js, and have a solid understanding of JavaScript and TypeScript. On the back end, I have hands-on experience with Node.js, and I’m well-versed in both relational databases like MySQL and NoSQL databases like MongoDB. Additionally, I’ve dabbled in mobile app development using Flutter, allowing me to create seamless user experiences across platforms.
 
-> I enjoy coding web and mobile applications, constantly learning to improve my skills.
+I am always eager to collaborate on innovative projects, whether it’s building a new application from the ground up or improving and scaling existing systems. My approach to development is not just about writing code, but about delivering solutions that drive success and growth for my clients and partners.
 
-> I have been working with people across different time zones for the past few months, remotely and asynchronously.
+Let’s connect and explore how we can work together to bring your ideas to life. I’m open to contract opportunities, project collaborations, and full-time roles. 
 
-> I'm now looking for opportunities to apply my skills in a real-world setting. If you know of any open positions or have a project in mind, please contact me to help you solve your problem!
-
+Feel free to reach out to me for any software development needs or just to discuss the latest trends in tech.
 
 
 ## Skills
