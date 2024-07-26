@@ -29,7 +29,7 @@ I am always eager to collaborate on innovative projects, whether it’s building
 
 Let’s connect and explore how we can work together to bring your ideas to life. I’m open to contract opportunities, project collaborations, and full-time roles. 
 
-Feel free to reach out to me for any software development needs or just to discuss the latest trends in tech.
+Feel free to reach out to me for any software development needs or to discuss the latest trends in tech.
 
 
 ## Skills
