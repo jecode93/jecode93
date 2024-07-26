@@ -1,5 +1,4 @@
-# Hi 👋, I'm **Jean Emmanuel CADET**
-## A Full-stack Software Engineer
+# Hi 👋, I'm **Jean Emmanuel CADET** | Full-stack Software Engineer
 
 <p align="center">
 
