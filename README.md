@@ -34,7 +34,7 @@ Feel free to reach out to me for any software development needs or to discuss th
 ## Skills
 
 * Languages: `Ruby`, `JavaScript`, `TypeScript`
-* Libraries & Frameworks: `Ruby on Rails`, `Next.js`, `Node.js`, `Express.js`, `React js`, `Redux`, `Redux Toolkit`, `Bootstrap`, `Tailwind CSS`, `Flutter`
+* Libraries & Frameworks: `Ruby on Rails`, `Next.js`, `Node.js`, `Express.js`, `React js`, `Redux`, `Bootstrap`, `Tailwind CSS`, `Flutter`
 * Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 * Technologies & Other: `Git`, `AWS`, `REST API Development`, `TDD`, `RSpec`, `Capybara`, `Jest`, `React Testing Library`
 
