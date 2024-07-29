@@ -57,10 +57,6 @@ Feel free to reach out to me for any software development needs or to discuss th
 <a href="#">
   <img src="cdephMockup.png" width="200"/>
 </a>
-<a href="#">
-  <img src="graphydevMockup.png" width="200"/>
-</a>
-
 -->
 
 ## Stats
