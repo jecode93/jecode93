@@ -48,9 +48,7 @@ Feel free to reach out to me for any software development needs or to discuss th
 <a href="https://clindoeilinfo.com">
   <img src="clindoeilMockup.png" width="200"/>
 </a>
-<a href="https://jeanemmanuelcadet.com">
-  <img src="jecodeMockup.png" width="200"/>
-</a>
+<a href="https://jeanemmanuelcadet.com">jecode93</a>
 -->
 
 ## Stats
