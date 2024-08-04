@@ -51,9 +51,6 @@ Feel free to reach out to me for any software development needs or to discuss th
 <a href="https://jeanemmanuelcadet.com">
   <img src="jecodeMockup.png" width="200"/>
 </a>
-<a href="#">
-  <img src="vepMockup.png" width="200"/>
-</a>
 -->
 
 ## Stats
