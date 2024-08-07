@@ -45,9 +45,7 @@ Feel free to reach out to me for any software development needs or to discuss th
 <a href="https://idasboiserie.com">
   <img src="idasMockup.png" width="200"/>
 </a>
-<a href="https://clindoeilinfo.com">
-  <img src="clindoeilMockup.png" width="200"/>
-</a>
+<a href="https://clindoeilinfo.com"></a>
 -->
 
 ## Stats
