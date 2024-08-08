@@ -42,9 +42,7 @@ Feel free to reach out to me for any software development needs or to discuss th
 ## Some examples of my works
 
 ### Website
-<a href="https://idasboiserie.com">
-  <img src="idasMockup.png" width="200"/>
-</a>
+<a href="https://idasboiserie.com">@jecode93</a>
 -->
 
 ## Stats
