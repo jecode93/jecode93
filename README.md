@@ -41,23 +41,23 @@ Feel free to reach out to me for any software development needs or to discuss th
 
 ## Certifications badge
 
-<a href="https://www.credential.net/01dc7484-1068-4452-922c-2bb049b5ea8e">
-  <img alt="Microverse HTML/CSS module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794301" />
+<a target="_blank" href="https://www.credential.net/01dc7484-1068-4452-922c-2bb049b5ea8e">
+  <img alt="Microverse HTML/CSS module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794301" width="150" />
 </a>
-<a href="https://www.credential.net/46b8e5cc-6cce-4946-abff-d3b39804b4e6">
-  <img alt="Microverse JavaScript Module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79285953" />
+<a target="_blank" href="https://www.credential.net/46b8e5cc-6cce-4946-abff-d3b39804b4e6">
+  <img alt="Microverse JavaScript Module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79285953" width="150" />
 </a>
-<a href="https://www.credential.net/9916a48f-7909-4b0f-a59b-d1b3c1e2e9dc">
-  <img alt="Microverse React & Redux Module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81665793" />
+<a target="_blank" href="https://www.credential.net/9916a48f-7909-4b0f-a59b-d1b3c1e2e9dc">
+  <img alt="Microverse React & Redux Module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81665793" width="150" />
 </a>
-<a href="https://www.credential.net/c9457cb0-4868-4ad0-a727-92f69f3e5c08">
-  <img alt="Microverse Ruby/Databases Module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84900314" />
+<a target="_blank" href="https://www.credential.net/c9457cb0-4868-4ad0-a727-92f69f3e5c08">
+  <img alt="Microverse Ruby/Databases Module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84900314" width="150" />
 </a>
-<a href="https://www.credential.net/afad83ea-b469-41ee-9da3-135f768935cb">
-  <img alt="Microverse Ruby on Rails Module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87934833" />
+<a target="_blank" href="https://www.credential.net/afad83ea-b469-41ee-9da3-135f768935cb">
+  <img alt="Microverse Ruby on Rails Module | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87934833" width="150" />
 </a>
-<a href="https://www.credential.net/fdf1e734-cdba-49ef-9414-870a77bcc6ad">
-  <img alt="Microverse Software Development Program | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89845247" />
+<a target="_blank" href="https://www.credential.net/fdf1e734-cdba-49ef-9414-870a77bcc6ad">
+  <img alt="Microverse Software Development Program | Jean Emmanuel CADET" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89845247" width="150" />
 </a>
 
 
