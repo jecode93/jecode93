@@ -1,5 +1,7 @@
 # Hi 👋, I'm **Jean Emmanuel CADET** | A Full-stack Software Engineer
 
+[![committers.top badge](https://user-badge.committers.top/haiti_public/jecode93.svg)](https://user-badge.committers.top/haiti_public/jecode93)
+
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=jecode93&color=blueviolet&label=Profile+Views)
