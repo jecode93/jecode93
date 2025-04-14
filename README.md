@@ -22,15 +22,19 @@
 
 ## About Me
 
-I’m a passionate, versatile, full-stack software engineer with extensive experience building robust and scalable applications. My primary expertise lies in Ruby and Ruby on Rails, complemented by a strong command of PostgreSQL as my go-to database.
+I’m Jean Emmanuel CADET, a passionate and versatile Full-Stack Software Engineer with over 4 years of experience building scalable, robust web and mobile applications.
 
-Over the years, I’ve expanded my skill set to include a diverse array of technologies, ensuring I can tackle any challenge that comes my way. I’m proficient in front-end development with React.js and Next.js, and have a solid understanding of JavaScript and TypeScript. On the back end, I have hands-on experience with Node.js, and I’m well-versed in relational databases like MySQL and NoSQL databases like MongoDB. Additionally, I’ve dabbled in mobile app development using Flutter, allowing me to create seamless user experiences across platforms.
+My expertise lies in Ruby on Rails and PostgreSQL, supported by solid skills in TypeScript, React.js, Next.js, and Node.js. I’m equally comfortable with relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases and have hands-on experience creating cross-platform apps with Flutter.
 
-I am always eager to collaborate on innovative projects, whether building a new application from the ground up or improving and scaling existing systems. My approach to development is not just about writing code, but about delivering solutions that drive success and growth for my clients and partners.
+For 13 years, I worked in a media company, including 5 years in leadership roles (Assistant Technical Director and technical Director). In these roles, I spearheaded the development of a successful streaming platform used by millions worldwide. I led teams, managed infrastructure, and collaborated across departments to deliver scalable, reliable, and user-centered solutions.
 
-Let’s connect and explore how to collaborate to bring your ideas to life. I’m open to contract opportunities, project collaborations, and full-time roles. 
+I love solving real-world problems through code and enjoy collaborating on projects that push innovation. Whether you’re building from scratch or scaling an existing product, I’m open to contract work, full-time opportunities, or collaborative projects.
 
-Feel free to reach out to me for any software development needs or to discuss the latest trends in tech.
+💼 Let’s connect if you need a tech partner who is adaptable, emotionally intelligent, and passionate about building meaningful software.
+
+🌍 Portfolio: [jeanemmanuelcadet.com](https://jeanemmanuelcadet.com)<br/>
+💻 GitHub: [github.com/jecode93](https://github.com/jecode93)<br/>
+📧 Email: [jeanemmanuelcadet@gmail.com](mailto:jeanemmanuelcadet@gmail.com)
 
 
 ## Skills
