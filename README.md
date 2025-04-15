@@ -40,9 +40,9 @@ I love solving real-world problems through code and enjoy collaborating on proje
 ## Skills
 
 * Languages: `Ruby`, `JavaScript`, `TypeScript`
-* Libraries & Frameworks: `Ruby on Rails`, `Next.js`, `Node.js`, `Express.js`, `React js`, `Redux`, `Bootstrap`, `Tailwind CSS`, `Flutter`
-* Databases: `PostgreSQL`, `MySQL`, `MongoDB`
-* Technologies & Other: `Git`, `AWS`, `REST API Development`, `RSpec`, `Capybara`, `React Testing Library`
+* Libraries & Frameworks: `Ruby on Rails`, `React.js`, `Next.js`, `Bootstrap`, `Tailwind CSS`, `Flutter`
+* Databases: `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite`
+* Technologies & Other: `Git`, `AWS`, `REST API Development`, `RSpec`, `Capybara`
 
 
 ## Certifications badge
