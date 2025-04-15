@@ -22,7 +22,7 @@
 
 ## About Me
 
-I’m Jean Emmanuel CADET, a passionate and versatile Full-Stack Software Engineer with over 4 years of experience building scalable, robust web and mobile applications.
+I’m Jean Emmanuel CADET, a passionate and versatile Full-Stack Software Engineer with over 3 years of experience building scalable, robust web and mobile applications.
 
 My expertise lies in Ruby on Rails and PostgreSQL, supported by solid skills in TypeScript, React.js, Next.js, and Node.js. I’m equally comfortable with relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases and have hands-on experience creating cross-platform apps with Flutter.
 
