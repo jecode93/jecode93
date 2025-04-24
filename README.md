@@ -39,11 +39,11 @@ I love solving real-world problems through code and enjoy collaborating on proje
 
 ## Skills
 
-* Languages & Frameworks: `Ruby`, `Ruby on Rails`, `JavaScript`, `TypeScript`, `React`, `Next.js`, `Stimulus`, `Turbo`
-* Databases: `PostgreSQL`, `MySQL`, `SQLite`
-* Tools & Methods: `Git`, `GitHub`, `Docker`, `RSpec`, `TDD`, `Webpack`, `Agile`, `Pair Programming`, `AWS`
-* Front-End: `Hotwire`, `Tailwind CSS`, `Bootstrap`
-* Soft Skills: `Communication`, `Time Management`, `Mentorship`, `Teamwork`, `Critical Thinking`
+* **Languages & Frameworks**: `Ruby`, `Ruby on Rails`, `JavaScript`, `TypeScript`, `React`, `Next.js`, `Stimulus`, `Turbo`
+* **Databases**: `PostgreSQL`, `MySQL`, `SQLite`
+* **Tools & Methods**: `Git`, `GitHub`, `Docker`, `RSpec`, `TDD`, `Webpack`, `Agile`, `Pair Programming`, `AWS`
+* **Front-End**: `Hotwire`, `Tailwind CSS`, `Bootstrap`
+* **Soft Skills:** `Communication`, `Time Management`, `Mentorship`, `Teamwork`, `Critical Thinking`
 
 
 ## Certifications badge
