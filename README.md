@@ -19,6 +19,7 @@
 </a>
 </p>
 
+🔭 I’m currently working on [CodeCurious](https://codecurious.dev)
 
 ## About Me
 
