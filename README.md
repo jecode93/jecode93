@@ -33,9 +33,11 @@ I love solving real-world problems through code and enjoy collaborating on proje
 
 💼 Let’s connect if you need a tech partner who is adaptable, emotionally intelligent, and passionate about building meaningful software.
 
-🌍 Portfolio: [jeanemmanuelcadet.com](https://jeanemmanuelcadet.com)<br/>
-💻 GitHub: [github.com/jecode93](https://github.com/jecode93)<br/>
-📧 Email: [jeanemmanuelcadet@gmail.com](mailto:jeanemmanuelcadet@gmail.com)
+🌐 **Portfolio:** [jeanemmanuelcadet.com](https://jeanemmanuelcadet.com)</br>
+✍️ **Blog:** [codecurious.dev](https://codecurious.dev)</br>
+💻 **GitHub:** [github.com/jecode93](https://github.com/jecode93)</br>
+🔗 **LinkedIn:** [linkedin.com/in/jean-emmanuel-cadet](https://linkedin.com/in/jean-emmanuel-cadet)</br>
+📧 **Email:** [jeanemmanuelcadet@gmail.com](mailto:jeanemmanuelcadet@gmail.com)</br>
 
 
 ## Skills
