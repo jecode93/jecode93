@@ -23,15 +23,15 @@
 
 ## About Me
 
-I’m Jean Emmanuel CADET, a passionate and versatile Full-Stack Software Engineer with over 3 years of experience building scalable, robust web and mobile applications.
+I’m Jean Emmanuel CADET, a passionate Full-Stack Software Engineer with 4+ years of experience building scalable web and mobile applications.
 
-My expertise lies in Ruby on Rails and PostgreSQL, supported by solid skills in TypeScript, React.js, Next.js, and Node.js. I’m equally comfortable with relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases and have hands-on experience creating cross-platform apps with Flutter.
+My core expertise is in Ruby on Rails and PostgreSQL, with strong skills in TypeScript, React.js, and Next.js. I’m comfortable with both relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, and have hands-on experience creating cross-platform apps with Flutter.
 
-For 13 years, I worked in a media company, including 5 years in leadership roles (Assistant Technical Director and technical Director). In these roles, I spearheaded the development of a successful streaming platform used by millions worldwide. I led teams, managed infrastructure, and collaborated across departments to deliver scalable, reliable, and user-centered solutions.
+Before transitioning fully into software, I spent 13 years in the media industry — including 5 years as a Technical Director — where I led teams, built a streaming platform used by millions, and managed large-scale infrastructure projects.
 
-I love solving real-world problems through code and enjoy collaborating on projects that push innovation. Whether you’re building from scratch or scaling an existing product, I’m open to contract work, full-time opportunities, or collaborative projects.
+I enjoy solving real-world problems through code and collaborating on projects that push innovation. Whether you’re starting from scratch or scaling an existing product, I can help you deliver reliable, user-centered solutions.
 
-💼 Let’s connect if you need a tech partner who is adaptable, emotionally intelligent, and passionate about building meaningful software.
+💼 Let’s connect if you need a tech partner who is adaptable, innovative, and committed to building meaningful software.
 
 🌐 **Portfolio:** [jeanemmanuelcadet.com](https://jeanemmanuelcadet.com)</br>
 ✍️ **Blog:** [codecurious.dev](https://codecurious.dev)</br>
@@ -42,11 +42,13 @@ I love solving real-world problems through code and enjoy collaborating on proje
 
 ## Skills
 
-* **Languages & Frameworks**: `Ruby`, `Ruby on Rails`, `JavaScript`, `TypeScript`, `React`, `Next.js`, `Stimulus`, `Turbo`
-* **Databases**: `PostgreSQL`, `MySQL`, `SQLite`
-* **Tools & Methods**: `Git`, `GitHub`, `Docker`, `RSpec`, `TDD`, `Webpack`, `Agile`, `Pair Programming`, `AWS`
-* **Front-End**: `Hotwire`, `Tailwind CSS`, `Bootstrap`
-* **Soft Skills:** `Communication`, `Time Management`, `Mentorship`, `Teamwork`, `Critical Thinking`
+- **Backend & Frameworks:** Ruby 3.x, Ruby on Rails 6–8, ActiveRecord, Action Cable, Action Mailer, Active Storage, MVC Architecture
+- **Frontend Technologies:** Hotwire (Turbo & Stimulus), React, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Bootstrap
+- **Databases & Storage:** PostgreSQL, MySQL, SQLite, Redis, Database Design & Optimization
+- **Testing & Quality:** RSpec, TDD, Capybara, FactoryBot, Automated Testing, Code Reviews
+- **DevOps & Tools:** Git, GitHub, Docker, AWS, Heroku, CI/CD, Linux, Webpack, Bundler 
+- **Development Practices:** Agile/Scrum, Pair Programming, RESTful APIs, Background Jobs, Deployment Pipelines
+- **Soft Skills:** Communication, Time Management, Mentorship, Teamwork, Critical Thinking, Problem Solving
 
 
 ## Certifications badge
