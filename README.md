@@ -1,4 +1,4 @@
-## Hi 👋, I'm **Jean Emmanuel CADET** | A Full-stack Software Engineer
+## Hi 👋, I'm **Jean Emmanuel CADET** | I help businesses grow online with modern websites & apps.
 
 [![committers.top badge](https://user-badge.committers.top/haiti_private/jecode93.svg)](https://user-badge.committers.top/haiti_private/jecode93)
 
