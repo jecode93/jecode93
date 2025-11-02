@@ -12,11 +12,11 @@
   <img alt="@jecode93 | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>  
 
-  <a href="https://www.linkedin.com/in/jean-emmanuel-cadet/" target="_blank">
+  <a href="https://www.linkedin.com/in/jean-emmanuel-cadet" target="_blank">
   <img alt="Jean Emmanuel Cadet | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.facebook.com/jecode93/" target="_blank">
+  <a href="https://www.facebook.com/jecode93" target="_blank">
   <img  alt="@jecode93 | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   
@@ -40,11 +40,11 @@ I enjoy solving real-world problems through code and collaborating on projects t
 
 💼 Let’s connect if you need a tech partner who is adaptable, innovative, and committed to building meaningful software.
 
-🌐 **Portfolio:** <a href="https://jeanemmanuelcadet.com" target="_blank">jeanemmanuelcadet.com</a> []()</br>
-✍️ **Blog:** <a href="https://codecurious.dev" target="_blank">codecurious.dev</a></br>
-💻 **GitHub:** <a href="https://github.com/jecode93" target="_blank">github.com/jecode93</a></br>
-🔗 **LinkedIn:**  <a href="https://linkedin.com/in/jean-emmanuel-cadet" target="_blank">linkedin.com/in/jean-emmanuel-cadet</a></br>
-📧 **Email:** <a href="mailto:jeanemmanuelcadet@gmail.com" target="_blank">mailto:jeanemmanuelcadet@gmail.com</a></br>
+🌐 **Portfolio:** [jeanemmanuelcadet.com](https://jeanemmanuelcadet.com)</br>
+✍️ **Blog:** [codecurious.dev](https://codecurious.dev)</br>
+💻 **GitHub:** [github.com/jecode93](https://github.com/jecode93)</br>
+🔗 **LinkedIn:** [linkedin.com/in/jean-emmanuel-cadet](https://linkedin.com/in/jean-emmanuel-cadet)</br>
+📧 **Email:** [jeanemmanuelcadet@gmail.com](mailto:jeanemmanuelcadet@gmail.com)</br>
 
 
 ## Skills
