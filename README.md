@@ -1,4 +1,4 @@
-## Hi 👋, I'm **Jean Emmanuel CADET** | I help businesses grow online with modern websites & apps.
+## Hi 👋, I'm **Jean Emmanuel CADET** — I help businesses grow online with modern websites & apps.
 
 
 ![](https://komarev.com/ghpvc/?username=jecode93&color=blueviolet&label=Profile+Views)</br></br>
@@ -34,9 +34,9 @@ I’m <strong>Jean Emmanuel CADET</strong>, a <strong>Full-Stack Software Engine
 
 I started programming in 2018, originally working with <strong>JavaScript</strong>, <strong>React.js</strong>, and <strong>PostgreSQL</strong>. A few years later, I discovered <strong>Ruby</strong>, and that changed everything. Since then, I’ve been building full-stack applications with <strong>Ruby on Rails</strong>, combining elegant backend logic with modern frontends powered by <strong>TypeScript</strong>, <strong>React.js</strong>, and <strong>Next.js</strong>.
 
-Before transitioning fully into software, I spent over 13 years in the media industry, including 5 years as a <strong>Technical Director</strong>. There, I led technical teams, helped build a streaming platform used by millions, and managed large-scale infrastructure projects.
+Before transitioning into software, I spent over 13 years in the media industry, including 5 years as a <strong>Technical Director</strong>. There, I led technical teams, helped build a streaming platform used by millions, and managed large-scale infrastructure projects.
 
-Today, I focus on building <strong>scalable</strong>, user-centered applications using <strong>Rails</strong>, <strong>SQLite/PostgreSQL</strong>, and modern web technologies. I’m passionate about <strong>clean architecture</strong>, <strong>developer experience</strong>, and solving <strong>real-world</strong> problems through thoughtful <strong>code</strong>.
+Today, I build <strong>scalable</strong>, user-centered applications using <strong>Rails</strong>, <strong>SQLite/PostgreSQL</strong>, and modern web technologies. I’m passionate about <strong>clean architecture</strong>, <strong>developer experience</strong>, and solving <strong>real-world</strong> problems through thoughtful <strong>code</strong>.
 
 💼 Whether you’re starting from <strong>scratch</strong> or scaling an <strong>existing product</strong>, I’d love to collaborate and help bring your <strong>ideas</strong> to life.
 
