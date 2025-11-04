@@ -30,15 +30,15 @@
 
 ## About Me
 
-I’m Jean Emmanuel CADET, a passionate Full-Stack Software Engineer with 4+ years of experience building scalable web and mobile applications.
+I’m <strong>Jean Emmanuel CADET</strong>, a Full-Stack Software Engineer with a deep love for crafting meaningful digital experiences.
 
-My core expertise is in Ruby on Rails and PostgreSQL, with strong skills in TypeScript, React.js, and Next.js. I’m comfortable with both relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, and have hands-on experience creating cross-platform apps with Flutter.
+I started programming in 2018, originally working with <strong>JavaScript</strong>, <strong>React.js</strong>, and <strong>PostgreSQL</strong>. A few years later, I discovered <strong>Ruby</strong>, and that changed everything. Since then, I’ve been building full-stack applications with <strong>Ruby on Rails</strong>, combining elegant backend logic with modern frontends powered by <strong>TypeScript</strong>, <strong>React.js</strong>, and <strong>Next.js</strong>.
 
-Before transitioning fully into software, I spent 13 years in the media industry — including 5 years as a Technical Director — where I led teams, built a streaming platform used by millions, and managed large-scale infrastructure projects.
+Before transitioning fully into software, I spent over 13 years in the media industry, including 5 years as a <strong>Technical Director</strong>. There, I led technical teams, helped build a streaming platform used by millions, and managed large-scale infrastructure projects.
 
-I enjoy solving real-world problems through code and collaborating on projects that push innovation. Whether you’re starting from scratch or scaling an existing product, I can help you deliver reliable, user-centered solutions.
+Today, I focus on building <strong>scalable</strong>, user-centered applications using <strong>Rails</strong>, <strong>SQLite/PostgreSQL</strong>, and modern web technologies. I’m passionate about <strong>clean architecture</strong>, <strong>developer experience</strong>, and solving <strong>real-world</strong> problems through thoughtful <strong>code</strong>.
 
-💼 Let’s connect if you need a tech partner who is adaptable, innovative, and committed to building meaningful software.
+💼 Whether you’re starting from <strong>scratch</strong> or scaling an <strong>existing product</strong>, I’d love to collaborate and help bring your <strong>ideas</strong> to life.
 
 🌐 **Portfolio:** [jeanemmanuelcadet.com](https://jeanemmanuelcadet.com)</br>
 ✍️ **Blog:** [codecurious.dev](https://codecurious.dev)</br>
