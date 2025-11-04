@@ -30,7 +30,7 @@
 
 ## About Me
 
-I’m <strong>Jean Emmanuel CADET</strong>, a Full-Stack Software Engineer with a deep love for crafting meaningful digital experiences.
+I’m <strong>Jean Emmanuel CADET</strong>, a <strong>Full-Stack Software Engineer</strong> with a deep love for crafting meaningful digital experiences.
 
 I started programming in 2018, originally working with <strong>JavaScript</strong>, <strong>React.js</strong>, and <strong>PostgreSQL</strong>. A few years later, I discovered <strong>Ruby</strong>, and that changed everything. Since then, I’ve been building full-stack applications with <strong>Ruby on Rails</strong>, combining elegant backend logic with modern frontends powered by <strong>TypeScript</strong>, <strong>React.js</strong>, and <strong>Next.js</strong>.
 
