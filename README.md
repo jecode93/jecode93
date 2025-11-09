@@ -1,6 +1,5 @@
 ## Hi 👋, I'm **Jean Emmanuel CADET** — I help businesses grow online with modern websites & apps.
 
-
 ![](https://komarev.com/ghpvc/?username=jecode93&color=blueviolet&label=Profile+Views)</br></br>
 <a href="https://user-badge.committers.top/haiti_private/jecode93" target="_blank">
   [![committers.top badge](https://user-badge.committers.top/haiti_private/jecode93.svg)](https://user-badge.committers.top/haiti_private/jecode93)
@@ -27,6 +26,13 @@
 </p>
 
 🔭 I’m currently working on <a href="https://codecurious.dev" target="_blank">Codecurious</a>
+
+
+## Achievements & Trophies
+
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jecode93" alt="Jean Emmanuel Cadet" /></a>
+</p>
 
 ## About Me
 
