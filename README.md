@@ -1,4 +1,10 @@
-## Hi 👋, I'm **Jean Emmanuel CADET** — I help businesses grow online with modern websites & apps.
+<h1 align="center">
+  Hi 👋, I'm Jean Emmanuel CADET
+</h1>
+
+<h3 align="center">I help businesses grow online with modern websites & apps.</h3>
+
+</br>
 
 ![](https://komarev.com/ghpvc/?username=jecode93&color=blueviolet&label=Profile+Views)</br></br>
 <a href="https://user-badge.committers.top/haiti_private/jecode93" target="_blank">
